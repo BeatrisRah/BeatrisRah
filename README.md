@@ -46,7 +46,7 @@
 
 ### 📫 Let's Connect
 
-- Portfolio: [beatris.portfolio](https://yourportfolio.com)  
+- Portfolio: [beatris.portfolio](https://portfolio-beatris-projects-7c0e60a2.vercel.app/)  
 - LinkedIn: [Beatris](https://www.linkedin.com/in/beatris-rahimi)  
 
 
