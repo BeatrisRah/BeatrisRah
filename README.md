@@ -1,9 +1,14 @@
-<h1 align="left">Hello There! I'm Betty! 💫🐇</h1> 
+<h1 align="left">
+  Hello There! I'm Betty! 💫🐇
+  <img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+</h1> 
 <p>I'm a <b>Full-Stack Engineer</b> passionate about building modern web and mobile applications that are fast, scalable, and fun to use.</p>
+
 
 ###
 
 <h2>💻 Tech Stack:</h2>
+
 
 <p><em>Languages:</em></p> 
 
@@ -28,13 +33,10 @@
 
 
 
-###
-
-
-
 
 <h2>🚀Currently Learning:</h2>
-###
+
+
 <h1 align="center">📊 GitHub Stats</h1>
 
 ###
